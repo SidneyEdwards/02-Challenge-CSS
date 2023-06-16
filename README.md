@@ -2,5 +2,8 @@
 
 ![screen shot](./assets/images/digital-marketing-meeting.jpg);
 
-User Story:
-We have cleaned the code for Horiseon to remove bugs, remove repetition, and make it more accessible.
+Purpose: 
+We have cleaned the code for the client, Horiseon, to remove bugs, eliminate repetition, and make the app more accessible.
+
+Author: 
+Sidney Edwards, under the instruction of Caleb Crum
